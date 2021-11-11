@@ -5,9 +5,8 @@ import ru.itis.Makhsotova.Enclave.Exceptions.InvalidEmailException;
 import ru.itis.Makhsotova.Enclave.Exceptions.OccupiedEmailException;
 import ru.itis.Makhsotova.Enclave.Exceptions.WeakPasswordException;
 import ru.itis.Makhsotova.Enclave.dto.SignUpForm;
-import ru.itis.Makhsotova.Enclave.models.User;
 import ru.itis.Makhsotova.Enclave.services.SignUpService;
-import ru.itis.Makhsotova.Enclave.services.SignUpServiceImpl;
+
 
 import javax.servlet.ServletConfig;
 import javax.servlet.ServletContext;

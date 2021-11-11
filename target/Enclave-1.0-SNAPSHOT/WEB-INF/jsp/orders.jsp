@@ -11,8 +11,8 @@
 
 <t:mainLayout title="Orders">
     <script src="/js/liveSearch.js"></script>
-    <div class="center-container hotel">
-    <h3>Here's your history order, you can cancel your booking
+    <div class="center-container">
+    <h3 class="hotel">Here's your history order, you can cancel your booking
         simply by clicking on the cancel button or you can renew it by
         clicking on the renew button</h3>
     </div>

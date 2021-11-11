@@ -11,9 +11,8 @@
 
 <t:mainLayout title="Profile">
 
-<div>
-<div style="text-align: center; height: 300px; justify-content: center">
-    Этот сайт предназначен для бронирования номеров в отелях и гостиницах.ю предсталенные здесь
+<div class="center-container">
+    <h3 class="hotel">Welcome to the website for hotel reservations!</h3>
 </div>
 <div style="text-align: center" >
     <div class="button-wrapper-inner"><button type="button" class="btn btn-outline-primary "><a href="<c:url value="/signIn"/>"> Sign In</a></button></div>
